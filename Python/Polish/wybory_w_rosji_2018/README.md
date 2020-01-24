@@ -1,0 +1,1 @@
+Celem niniejszego projektu jest analiza i poszukiwanie anomalii w danych z datasetu z wyborów w Rosji w 2018 roku oraz nauczenie kilku algorytmów Superviced Learning dla przepowiadania wyników wyborów w lokalach wyborczych.
